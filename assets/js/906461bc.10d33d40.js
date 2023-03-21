@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjacbellavistactg_ml=self.webpackChunkjacbellavistactg_ml||[]).push([[6122],{602:a=>{a.exports=JSON.parse('{"label":"docusaurus","permalink":"/jacbellavistactg.ml/blog/tags/docusaurus","allTagsPath":"/jacbellavistactg.ml/blog/tags","count":4}')}}]);

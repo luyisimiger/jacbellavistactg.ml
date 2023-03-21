@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjacbellavistactg_ml=self.webpackChunkjacbellavistactg_ml||[]).push([[7123],{5250:l=>{l.exports=JSON.parse('{"label":"hello","permalink":"/jacbellavistactg.ml/blog/tags/hello","allTagsPath":"/jacbellavistactg.ml/blog/tags","count":2}')}}]);

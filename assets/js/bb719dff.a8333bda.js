@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjacbellavistactg_ml=self.webpackChunkjacbellavistactg_ml||[]).push([[9597],{2789:a=>{a.exports=JSON.parse('{"permalink":"/jacbellavistactg.ml/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
